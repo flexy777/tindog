@@ -150,9 +150,9 @@ h2{
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 3rem;
     padding: 0% 0% 3%;
-    width: 60%;
+    width: 80%;
     margin: auto;
     
 }
@@ -166,14 +166,14 @@ h2{
 #footer{
     text-align: center;
     background-color: #fff;
-    padding: 4% 15%;
+    padding: 7% 15%;
 
 
 }
 .social-icons{
-    margin: 0% 0% 2% 2%;
+    margin: 20px 10px;
 }
-#footer p{
+/* #footer p{
     padding-left: 10px;
     padding-top: 20px;
-}
+} */
